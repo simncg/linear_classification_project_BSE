@@ -1,6 +1,6 @@
 # Linear Classification Project
  
-This repository contains all the files necessary to solve linear classification project. 
+This repository contains all the files necessary to solve the linear classification project for the course Computing for Data Science and Computational Machine Learning at BSE. 
 
 1. The file `Simon Caicedo - classification_project1.ipynb`  contains the notebook with all the data analysis and the models for solving the Linear Classification Project. 
 
