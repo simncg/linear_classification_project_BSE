@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import seaborn as sns 
 import itertools
-
+import numpy as np
 
 
 def plot_cf_matrix(cm, classes,

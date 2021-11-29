@@ -11,7 +11,7 @@ def get_requirements(requirements_path='requirements.txt'):
 
 setuptools.setup(
     name="lin_class_simncg",
-    version="0.0.2",
+    version="0.0.3",
     author="Simón Caicedo",
     author_email="simncg@gmail.com",
     description="Package for solving linear classification project",

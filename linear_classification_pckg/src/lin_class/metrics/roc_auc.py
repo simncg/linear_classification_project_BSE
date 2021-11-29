@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt 
 from sklearn.metrics import roc_curve, auc
+import seaborn as sns
 
 def roc_auc_plot(pred_probs, y_true):
     sns.set_theme(style="whitegrid")
